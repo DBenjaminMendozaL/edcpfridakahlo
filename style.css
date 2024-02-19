@@ -30,29 +30,30 @@ nav li {
 section {
     background-image: url('https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/assets/hero.jpg');
     float: center;
-    height: 400px;
+    width: 1280px;
+    height: 335px;
 }
 
 #signo{
     padding: 20px 0px 0px 40px;
 }
 
-h1{
+#p1{
+    font: bold 30px verdana, sans-serif;
+    color: #fcf8f8;
+}
+
+#p2{
     font: bold 14px verdana, sans-serif;
     color: #fcf8f8;
 }
 
-h2{
+#p3{
     font: bold 14px verdana, sans-serif;
     color: #fcf8f8;
 }
 
-h3{
-    font: bold 14px verdana, sans-serif;
-    color: #fcf8f8;
-}
-
-h4{
+#p4{
     font: bold 14px verdana, sans-serif;
     color: #fcf8f8;
 }
