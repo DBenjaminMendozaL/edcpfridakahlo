@@ -6,7 +6,7 @@
 
 /*Inicia parte del codigo realizado por: Ximena Tamara Farias Lizarraga, con codigo PILARES: 136ZMA9*/
 header {
-    padding: 10px 0px 20px 50px;
+    padding: 10px 0px 40px 50px;
     margin: 5px;
 }
 
@@ -14,6 +14,7 @@ nav {
     float: right;
     margin: 5px 40px 20px 0px;
     padding: 5px;
+    width: max-content;
     border-top: 2px solid #cccbcb;
 }
 
