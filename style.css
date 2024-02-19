@@ -5,21 +5,28 @@
 }
 
 /*Inicia parte del codigo realizado por: Ximena Tamara Farias Lizarraga, con codigo PILARES: 136ZMA9*/
+body,header,nav,section,article,figure,footer {
+    display: block;
+}
+
 header {
     padding: 10px 0px 40px 50px;
-    margin: 5px;
+    margin: 0px;
 }
 
 nav {
     float: right;
-    margin: 0px;
-    padding: 0px;
-    width: 2000px;
-    border-top: 2px solid #cccbcb;
+    margin: 5px 0px 0px 0px;
+    padding: 10px 30px 15px 0px;
+    width: 2400px;
+    background: #f3f3f3;
+    border-top: 2px solid #b8b8b8;
+    cursor: pointer;
 }
 
 nav li {
     display: inline;
+    float: right;
     font: 14px verdana, sans-serif;
     margin-right: 20px;
 }
