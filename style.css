@@ -28,5 +28,5 @@ nav li {
 
 /*Inicia parte del codigo realizado por: Carolina Ortuño Mojica, con codigo PILARES: 936JR080*/
 section {
-    background:  src="https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/assets/hero.jpg";
+    background-image: url('https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/assets/hero.jpg');
 }
