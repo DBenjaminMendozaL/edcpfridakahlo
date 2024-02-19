@@ -14,6 +14,10 @@ header {
     margin: 0px;
 }
 
+article{
+    float: left;
+}
+
 nav {
     float: right;
     margin: 5px 0px 0px 0px;
@@ -37,9 +41,9 @@ nav li {
 /*Inicia parte del codigo realizado por: Carolina Ortuño Mojica, con codigo PILARES: 936JR080*/
 section {
     background-image: url('https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/assets/hero.jpg');
-    float: center;
-    width: 1280px;
-    height: 335px;
+    float: left;
+    width: 1250px;
+    height: 330px;
 }
 
 #signo{
@@ -52,16 +56,20 @@ section {
 }
 
 #p2{
-    font: bold 14px verdana, sans-serif;
+    font:  30px verdana, sans-serif;
     color: #fcf8f8;
 }
 
 #p3{
-    font: bold 14px verdana, sans-serif;
+    font: bold 50px verdana, sans-serif;
     color: #fcf8f8;
 }
 
 #p4{
-    font: bold 14px verdana, sans-serif;
+    font:  30px verdana, sans-serif;
+    color: #fcf8f8;
+}
+#p8{
+    font:  30px verdana, sans-serif;
     color: #fcf8f8;
 }
