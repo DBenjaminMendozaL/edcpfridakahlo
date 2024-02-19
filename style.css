@@ -5,7 +5,7 @@
 }
 
 /*Inicia parte del codigo realizado por: Ximena Tamara Farias Lizarraga, con codigo PILARES: 136ZMA9*/
-body,header,nav,section,article,figure,footer {
+header,nav,section,article,figure,footer {
     display: block;
 }
 
@@ -14,14 +14,14 @@ header {
     margin: 0px;
 }
 
-article{
+article {
     float: left;
 }
 
 nav {
-    float: right;
-    margin: 5px 0px 0px 0px;
-    padding: 10px 30px 15px 0px;
+    text-align: right;
+    margin: 10px;
+    padding: 10px 15px;
     width: 2400px;
     background: #f3f3f3;
     border-top: 2px solid #b8b8b8;
@@ -29,9 +29,8 @@ nav {
 
 nav li {
     display: inline;
-    float: right;
     font: 14px verdana, sans-serif;
-    margin-right: 40px;
+    margin: 5px, 25px;
     cursor: pointer;
 }
 /*Termina parte del código realizado por: Ximena Tamara Farias Lizarraga*/
@@ -41,13 +40,13 @@ nav li {
 /*Inicia parte del codigo realizado por: Carolina Ortuño Mojica, con codigo PILARES: 936JR080*/
 section {
     background-image: url('https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/assets/hero.jpg');
-    float: left;
     width: 1250px;
     height: 330px;
 }
 
 #signo{
     padding: 20px 0px 0px 40px;
+    cursor: pointer;
 }
 
 #p1{
