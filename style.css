@@ -21,14 +21,14 @@ nav {
     width: 2400px;
     background: #f3f3f3;
     border-top: 2px solid #b8b8b8;
-    cursor: pointer;
 }
 
 nav li {
     display: inline;
     float: right;
     font: 14px verdana, sans-serif;
-    margin-right: 20px;
+    margin-right: 40px;
+    cursor: pointer;
 }
 /*Termina parte del código realizado por: Ximena Tamara Farias Lizarraga*/
 
@@ -64,4 +64,23 @@ section {
 #p4{
     font: bold 14px verdana, sans-serif;
     color: #fcf8f8;
+}
+
+footer{
+    text-align: center;
+}
+
+#p5{
+    font: bold 24px verdana,sans-serif;
+    color: #ac8d38;
+    margin: 20px 0px 10px 0px;
+}
+
+#p6{
+    font: bold 14px verdana,sans-serif;
+}
+
+#p7{
+    font: 14px verdana,sans-serif;
+    color: gray;
 }
